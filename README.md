@@ -50,5 +50,5 @@ https://youtu.be/vz9N5GG8Tfw
 [![Lituus Animation [gnuplot]](http://img.youtube.com/vi/vz9N5GG8Tfw/0.jpg)](https://youtu.be/vz9N5GG8Tfw "Lituus Animation [gnuplot]")
 
 ## License
-"lituus" is under [MIT license](https://github.com/hiroloquy/inverted-pendulum-simulation/blob/master/LICENSE).
+"lituus" is under [MIT license](https://github.com/hiroloquy/lituus/blob/master/LICENSE).
  
