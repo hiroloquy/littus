@@ -7,11 +7,10 @@
 |**lituus.gif**|
 
 ## Equations
-<img src=
-"https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+x%28%5Ctheta%29+%3D+%5Cfrac%7BA%5Ccos%5Ctheta%7D%7B%5Csqrt%7B%5Ctheta%7D%7D%5Cqquad%0Ay%28%5Ctheta%29+%3D+%5Cfrac%7BA%5Csin%5Ctheta%7D%7B%5Csqrt%7B%5Ctheta%7D%7D" 
-alt="x(\theta) = \frac{A\cos\theta}{\sqrt{\theta}}\qquad
-y(\theta) = \frac{A\sin\theta}{\sqrt{\theta}}">
-
+$$
+x(\theta) = \frac{A\cos\theta}{\sqrt{\theta}} \qquad
+y(\theta) = \frac{A\sin\theta}{\sqrt{\theta}}
+$$
 
 <!-- ## Features
 You enable to switch terminal type `qt` or `pngcairo` by using **`qtMode`**.
